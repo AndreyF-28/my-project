@@ -1,2 +1,5 @@
 Second file text
+<<<<<<< HEAD
 Wrong text
+=======
+>>>>>>> newbranch
